@@ -1,2 +1,35 @@
 # gerodriguezrach
 👨‍💻 Personal portfolio – Game AI, Python &amp; C Projects
+# 👋 Hi, I'm Gabriel Rodriguez
+
+🎮 I'm a Computer Science student who loves coding games, building AI, and solving problems through algorithms.
+
+---
+
+## 🛠️ Skills
+- 🐍 Python (beginner–intermediate)
+- ⚙️ C programming (basics)
+- 📊 Algorithms & data structures
+- 👾 Game logic & pathfinding (A*, BFS)
+- 💻 GitHub & Replit projects
+
+---
+
+## 🚀 Current Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [AI Maze Chaser](https://replit.com/@gerodriguezrach/AI-maze-chaser#main.py) | A simple AI-driven maze game using pathfinding algorithms | Python |
+| More coming soon... | I'm building my portfolio weekly | Python, C |
+
+---
+
+## 🧠 What I’m Learning
+- Game AI systems
+- Git & GitHub version control
+- Clean project documentation
+- Real-world software dev practices
+
+---
+
+## 📫 Let’s Connect
+You can reach out through GitHub or by dropping an issue/comment on one of my repos!
