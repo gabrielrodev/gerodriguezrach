@@ -19,10 +19,10 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 Project | Description | Tech
-AI Maze Chaser | A simple AI-driven maze game using pathfinding algorithms | Python
-Bowling Tracker | Modular program that calculates bowling stats and user skill level based on input | Python
-Number Analysis | Takes user input and returns sum, average, reverse, and above-average values | Python
-Number Challenges | A collection of basic math and logic challenges using loops and conditionals | Python
+[AI Maze Chaser](https://replit.com/@gerodriguezrach/AI-maze-chaser) | A simple AI-driven maze game using pathfinding algorithms | Python
+[Bowling Tracker](https://github.com/gabrielrodev/gerodriguezrach/blob/main/Bowling%20Score%20Analyzer.py) | Modular program that calculates bowling stats and user skill level based on input | Python
+[Number Analysis](https://github.com/gabrielrodev/gerodriguezrach/tree/main/number_challenges) | Takes user input and returns sum, average, reverse, and above-average values | Python
+[Number Challenges](https://github.com/gabrielrodev/gerodriguezrach/tree/main/number_stats) | A collection of basic math and logic challenges using loops and conditionals | Python
 More coming soon... | I'm building my portfolio weekly | Python, C
 
 ---
