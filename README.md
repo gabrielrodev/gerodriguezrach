@@ -18,8 +18,12 @@
 ## 🚀 Current Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [AI Maze Chaser](https://replit.com/@gerodriguezrach/AI-maze-chaser#main.py) | A simple AI-driven maze game using pathfinding algorithms | Python |
-| More coming soon... | I'm building my portfolio weekly | Python, C |
+Project | Description | Tech
+[AI Maze Chaser](https://replit.com/@gerodriguezrach/AI-maze-chaser) | A simple AI-driven maze game using pathfinding algorithms | Python
+[Bowling Tracker](https://github.com/gabrielrodev/gerodriguezrach/blob/main/Bowling%20Score%20Analyzer.py) | Modular program that calculates bowling stats and user skill level based on input | Python
+[Number Analysis](https://github.com/gabrielrodev/gerodriguezrach/tree/main/number_challenges) | Takes user input and returns sum, average, reverse, and above-average values | Python
+[Number Challenges](https://github.com/gabrielrodev/gerodriguezrach/tree/main/number_stats) | A collection of basic math and logic challenges using loops and conditionals | Python
+More coming soon... | I'm building my portfolio weekly | Python, C
 
 ---
 
