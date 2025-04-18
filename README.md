@@ -19,12 +19,15 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 Project | Description | Tech
-[AI Maze Chaser](https://replit.com/@gerodriguezrach/AI-maze-chaser) | A simple AI-driven maze game using pathfinding algorithms | Python
-[Bowling Tracker](https://github.com/gabrielrodev/gerodriguezrach/tree/main/bowling_tracker) | Modular program that calculates bowling stats and user skill level based on input | Python
-[Number Analysis](https://github.com/gabrielrodev/gerodriguezrach/tree/main/number_challenges) | Takes user input and returns sum, average, reverse, and above-average values | Python
-[Number Challenges](https://github.com/gabrielrodev/gerodriguezrach/tree/main/number_stats) | A collection of basic math and logic challenges using loops and conditionals | Python
+[AI Maze Chaser](https://replit.com/@gerodriguezrach/AI-maze-chaser) | A simple AI-driven maze game using pathfinding algorithms | Python  
+[Bowling Tracker](https://github.com/gabrielrodev/gerodriguezrach/tree/main/bowling_tracker) | Modular program that calculates bowling stats and user skill level based on input | Python  
+[Number Analysis](https://github.com/gabrielrodev/gerodriguezrach/tree/main/number_challenges) | Takes user input and returns sum, average, reverse, and above-average values | Python  
+[Number Challenges](https://github.com/gabrielrodev/gerodriguezrach/tree/main/number_challenges) | A collection of basic math and logic challenges using loops and conditionals | Python  
+[Number Stats](https://github.com/gabrielrodev/gerodriguezrach/tree/main/number_stats) | Performs basic statistical analysis: min, max, mean, and frequency | Python  
+[Dictionary Teams](https://github.com/gabrielrodev/gerodriguezrach/tree/main/dictionary_teams) | Creates and manages teams using dictionary-like structures for player stats | Python  
 [String Decoder](https://github.com/gabrielrodev/gerodriguezrach/tree/main/string_decoder_c) | Program that decodes encoded strings by replacing markers with original characters | C  
-[Stack vs Heap Memory](https://github.com/gabrielrodev/gerodriguezrach/tree/main/stack_vs_heap_memory) | Compares stack and heap memory usage with dynamic and static allocation examples | C
+[Stack vs Heap Memory](https://github.com/gabrielrodev/gerodriguezrach/tree/main/stack_vs_heap_memory) | Compares stack and heap memory usage with dynamic and static allocation examples | C  
+[Champion Tracker](https://github.com/gabrielrodev/gerodriguezrach/tree/main/champion_tracker_c) | Tracks performance stats of multiple champions using structs and conditionals | C  
 More coming soon... | I'm building my portfolio weekly | Python, C
 
 ---
